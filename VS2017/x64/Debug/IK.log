@@ -1,0 +1,6 @@
+﻿  IK.cpp
+C:\Users\njohn\Documents\HW3\starter\adolc\Win64\include\adolc\advector.h(130,50): warning C4267: 'argument': conversion from 'size_t' to 'locint', possible loss of data
+  skinning.cpp
+  Generating Code...
+C:\Users\njohn\Documents\HW3\starter\IK.cpp(48): warning C4715: '`anonymous namespace'::Euler2Rotation<adouble>': not all control paths return a value
+  IK.vcxproj -> C:\Users\njohn\Documents\HW3\starter\VS2017\x64\Debug\IK.exe
